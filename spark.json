@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit_SSD1306_128x32",
+  "name": "adafruit_ssd1306_128x32",
   "author": "Cameron Ketcham <cketcham@gmail.com>",
   "license": "MIT",
   "version": "0.0.1",
