@@ -1,0 +1,7 @@
+{
+  "name": "adafruit-ssd1306-128x32",
+  "author": "Cameron Ketcham <cketcham@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A copy of the adafruit-ssd1306 library for 128x32"
+}
